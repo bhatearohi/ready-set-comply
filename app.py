@@ -1,5 +1,5 @@
 """
-Ready Set Comply — v1
+Ready Steady Comply — v1
 
 A simple Streamlit app that generates a Cyber Essentials Plus
 prep checklist so SME owners don't have to start from a blank page
