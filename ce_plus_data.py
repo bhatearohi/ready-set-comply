@@ -5,9 +5,6 @@ This is the 'brain' of the runbook tool. Each of the five CE+ control
 themes has: a plain-English description, what auditors typically want
 to see as evidence, and the common panic points SMEs run into.
 
-Edit the "panic_points" list for each theme based on your own
-CE+ knowledge and, ideally, real feedback from SME owners — that's
-what will make this genuinely useful rather than generic.
 """
 
 CE_PLUS_CONTROLS = {
